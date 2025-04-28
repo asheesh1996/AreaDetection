@@ -1,6 +1,6 @@
 # AreaDetection
 
-AreaDetection is a .NET 8-based library for detecting and counting areas in images using OpenCV and Machine Learning.
+AreaDetection is a .NET 8-based program for detecting and counting areas in images using OpenCV and Machine Learning using Yolov11 model trained on [test images](https://github.com/asheesh1996/AreaDetection/tree/main/AreaDetection.Console/test_Images) .
 
 ## Features
 
